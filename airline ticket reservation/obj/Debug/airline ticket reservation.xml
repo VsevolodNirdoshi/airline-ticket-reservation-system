@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+airline ticket reservation
+</name>
+</assembly>
+<members>
+<member name="T:airline_ticket_reservation.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:airline_ticket_reservation.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:airline_ticket_reservation.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.AircraftDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CancelReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CollectionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.FlightsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.RefundsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ReservationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ScheduleflightsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.SectorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.AircraftRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CancelReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CollectionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.FlightsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.RefundsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ReservationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ScheduleflightsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.SectorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.AircraftRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CancelReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.CollectionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.FlightsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.RefundsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ReservationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.ScheduleflightsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.SectorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSet.usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.AircraftTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.CancelReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.CollectionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.FlightsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.RefundsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.ReservationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.ScheduleflightsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.SectorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.usersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(airline_ticket_reservation.AirlineReservationSystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(airline_ticket_reservation.AirlineReservationSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(airline_ticket_reservation.AirlineReservationSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.UpdateAll(airline_ticket_reservation.AirlineReservationSystemDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:airline_ticket_reservation.AirlineReservationSystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
